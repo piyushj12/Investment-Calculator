@@ -38,4 +38,5 @@ To run this project locally, follow these steps:
 2. The year-wise growth of your investment will be shown on the screen.
 3. The results will be displayed in a table format for easy understanding and comparison.
 
+---
 This project simplifies investment planning, providing users with a clear understanding of how their investments could grow over time.
