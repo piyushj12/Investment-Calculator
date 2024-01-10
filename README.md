@@ -22,7 +22,7 @@ Check out the live application [https://investment-calculator-d0f78.web.app/].
 To run this project locally, follow these steps:
 
 1. Clone the repository:
-   git clone [repository URL]
+   git clone [https://github.com/piyushj12/Investment-Calculator.git]
 
 2. Navigate to the project directory:
    cd investment-calculator
